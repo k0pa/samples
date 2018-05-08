@@ -1,7 +1,7 @@
 # Samples #
 
 ### Default Body Class Styles ###
-One of the great things about WordPress is its customizability. It allows you to target very specific aspects of your site with CSS. One of the ways it does this is by adding custom classes to various elements of your blog. The most important of these is the <body> tag. Here are some examples of common classes that WordPress might add to this element:
+
 ```
     .rtl {}
     .home {}
