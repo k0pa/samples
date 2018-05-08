@@ -1,5 +1,42 @@
 # Samples #
 
+### Default Body Class Styles ###
+One of the great things about WordPress is its customizability. It allows you to target very specific aspects of your site with CSS. One of the ways it does this is by adding custom classes to various elements of your blog. The most important of these is the <body> tag. Here are some examples of common classes that WordPress might add to this element:
+```
+    .rtl {}
+    .home {}
+    .blog {}
+    .archive {}
+    .date {}
+    .search {}
+    .paged {}
+    .attachment {}
+    .error404 {}
+    .single postid-(id) {}
+    .attachmentid-(id) {}
+    .attachment-(mime-type) {}
+    .author {}
+    .author-(user_nicename) {}
+    .category {}
+    .category-(slug) {}
+    .tag {}
+    .tag-(slug) {}
+    .page-parent {}
+    .page-child parent-pageid-(id) {}
+    .page-template page-template-(template file name) {}
+    .search-results {}
+    .search-no-results {}
+    .logged-in {}
+    .paged-(page number) {}
+    .single-paged-(page number) {}
+    .page-paged-(page number) {}
+    .category-paged-(page number) {}
+    .tag-paged-(page number) {}
+    .date-paged-(page number) {}
+    .author-paged-(page number) {}
+    .search-paged-(page number) {}
+```
+
 ### Wordpress pagination? ###
 
 ```
